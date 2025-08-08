@@ -40,10 +40,4 @@ This repository contains a modern, responsive landing page built with [Next.js](
 
 You can easily customize the content, colors, images, and branding by editing the files in the `src/sections/`, `src/components/`, and `src/assets/` folders.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 Feel free to fork, modify, and use this template for your own landing page projects!
