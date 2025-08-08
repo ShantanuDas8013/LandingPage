@@ -1,7 +1,5 @@
 # Next.js Landing Page Project
 
-# Next.js Landing Page Project
-
 This repository contains a modern, responsive landing page built with [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/). The project is designed to showcase a product, service, or company with a clean and attractive user interface.
 
 ## Features
